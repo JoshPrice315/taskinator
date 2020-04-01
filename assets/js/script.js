@@ -55,7 +55,7 @@ var createTaskEl = function(taskDataObj) {
 formEl.addEventListener("submit", taskFormHandler);
 
 // console.log(buttonEl);
-
+//
 // buttonEl.addEventListener("click", function() {
 //     alert("button clicked");
 //   });
